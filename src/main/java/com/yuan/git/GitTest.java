@@ -9,5 +9,6 @@ package com.yuan.git;
 public class GitTest {
     public void getString(){
         System.out.println(1);
+        System.out.println(2);
     }
 }
